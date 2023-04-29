@@ -1,4 +1,5 @@
 # 【パリピグリッチシェーダー v1.1.0】
+- BOOTH商品ページ : https://harumaki-lab.booth.pm/items/4625907
 
 ## ■パリピグリッチシェーダーのディレクトリ構成  
 ■PartyGlitchShader/ 親ディレクトリ  
